@@ -1,0 +1,6 @@
+{
+  "name": "PaperBook - Sports Betting Simulator",
+  "description": "A play-money mobile-first sports betting simulator and education tool that demonstrates how odds, margins, and bookmaker mathematics really work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
